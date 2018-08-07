@@ -159,7 +159,8 @@ local _M =
 			['Reports'] = 'off',
 			['Welbut'] = 'off', -- "read the rules" button under the welcome message
 			['Weldelchain'] = 'off', -- delete the previously sent welcome message when a new welcome message is sent
-			['Antibot'] = 'off'
+			['Antibot'] = 'off',
+			['Clean_Msg_Service'] = 'off' -- adding enable o disable support delete messages service
 		},
 		['antispam'] = {
 			['links'] = 'alwd',
